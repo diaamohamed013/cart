@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cart/static/css/main.103f63e5.css",
+    "main.js": "/cart/static/js/main.be649d0f.js",
+    "static/js/787.d6fe38e8.chunk.js": "/cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/fa-solid-900.ttf": "/cart/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/cart/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/cart/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/cart/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/cart/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/cart/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/cart/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/cart/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/cart/index.html",
+    "main.103f63e5.css.map": "/cart/static/css/main.103f63e5.css.map",
+    "main.be649d0f.js.map": "/cart/static/js/main.be649d0f.js.map",
+    "787.d6fe38e8.chunk.js.map": "/cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103f63e5.css",
+    "static/js/main.be649d0f.js"
+  ]
+}
