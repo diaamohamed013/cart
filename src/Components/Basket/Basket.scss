@@ -1,0 +1,14 @@
+.cart {
+    .itemPrice {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        h3 {
+            font-size: 18px;
+            color: #6c757d;
+        }
+    }
+    p {
+        color: #dc3545;
+    }
+}

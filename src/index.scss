@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat+Alternates:wght@400;500;600&family=Montserrat:wght@400;500;600;700&family=Newsreader:opsz@6..72&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  body {
+    background-color: #f8f8f8;
+    font-family: "Cairo", sans-serif;
+    a {
+      text-decoration: none;
+      display: block;
+    }
+    .w-img {
+      width: 100px;
+      height: 100px;
+    }
+    .w-img-30 {
+      width: 30px;
+      height: 30px;
+    }
+  }
+}

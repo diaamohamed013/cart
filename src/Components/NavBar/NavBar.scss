@@ -1,0 +1,32 @@
+@mixin radius($r) {
+    border-radius: $r;
+    -webkit-border-radius: $r;
+    -moz-border-radius: $r;
+    -ms-border-radius: $r;
+    -o-border-radius: $r;
+}
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 111;
+    .fa-cart-shopping {
+        position: relative;
+        font-size: 20px;
+        .quantity {
+            font-size: 10px;
+            display: block;
+            position: absolute;
+            top: -10px;
+            right: -8px;
+            width: 18px;
+            height: 18px;
+            background-color: #d3d3d3;
+            @include radius(50%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

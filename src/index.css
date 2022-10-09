@@ -1,13 +1,1 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import"https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat+Alternates:wght@400;500;600&family=Montserrat:wght@400;500;600;700&family=Newsreader:opsz@6..72&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap";*{margin:0;padding:0;box-sizing:border-box}* body{background-color:#f8f8f8;font-family:"Cairo",sans-serif}* body a{text-decoration:none;display:block}* body .w-img{width:100px;height:100px}* body .w-img-30{width:30px;height:30px}
